@@ -1,0 +1,326 @@
+{
+	"info": {
+		"_postman_id": "048cdfc3-ae9b-41e1-9c15-b27a11935664",
+		"name": "MyProjecttask api's (login+reminder)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOsharma.pri17@gmail.comiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxIiwiaXNBY3RpdmUiOnRydWUsInVzZXJUeXBlIjoiaXNBZG1pbiIsImlhdCI6MTYyMzM4NjkwOSwiZXhwIjoxNjIzNDczMzA5fQ.jh9bOIcxbj4c5UMZeDrxcnhiZXYLbX42KJlbq_zt7Ss",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"priyanka\",\n    \"email\": \"pri27@gmail.com\",\n    \"password\": \"p7777777\",\n    \"accountTypeAdmin\": 1\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/users/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"users",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOsharma.pri1sharma.pri17@gmail.com7@gmail.comiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxIiwiaXNBY3RpdmUiOnRydWUsInVzZXJUeXBlIjoiaXNBZG1pbiIsImlhdCI6MTYyMzM4NjkwOSwiZXhwIjoxNjIzNDczMzA5fQ.jh9bOIcxbj4c5UMZeDrxcnhiZXYLbX42KJlbq_zt7Ss",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"sharma.pri17@gmail.com\",\n    \"password\": \"priyanka\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/users/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"users",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "forgotPassword",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"sharma.pri17@gmail.com\",\n    \"password\": \"pp123456\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/users/forgotPwd",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"users",
+						"forgotPwd"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "createReminder",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"description\": \"appoitment reminder\",\n    \"createdAt\": \"2022-1-28\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/createReminder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"createReminder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateReminder",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"reminderNumber\": \"2\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/updateReminderStatus",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"updateReminderStatus"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTodayReminder",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filter\": true\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/getTodayReminder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"getTodayReminder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getReminder",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"reminderDate\": \"2022-1-28\",\n    \"filter\": false\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/getReminder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"getReminder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteReminder",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"reminderNumber\": 2\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/deleteReminder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"deleteReminder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteCompletedReminder",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:6000/api/reminders/deleteCompletedReminder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6000",
+					"path": [
+						"api",
+						"reminders",
+						"deleteCompletedReminder"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3ODkwZGZlZi1mMGU5LTQ0NGEtODExMy1lY2QwMjRiZjYyNGQiLCJpc0FjdGl2ZSI6dHJ1ZSwidXNlclR5cGUiOjEsImlhdCI6MTY0MTM4MTcxNSwiZXhwIjoxNjQxNDY4MTE1fQ.M-TF-YNTqYNo7fV6gqQBFkjbE0Vcj5IYwRpfFKM9_hM",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
