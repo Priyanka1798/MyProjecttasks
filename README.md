@@ -9,3 +9,4 @@ Procedure & Steps to run the project :-Ts files generate :-
 6. Covering reminders api's in module Reminder (routes,controllers & services also with its repo files.)
 7. Also having (.env) file in it with all the details of database connectivity & secret configurations etc.
 
+Main file code- (src folder.....) having all the modules further like (routes,controllers,services , database-models &migrations,repostories,middleware,config , type files etc)
