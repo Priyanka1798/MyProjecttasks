@@ -1,0 +1,216 @@
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"_original":{"email":"m4@m.com","password":"m4"},"details":[{"context":{"key":"password","label":"password","limit":8,"value":"m4"},"message":"The email or password you entered is incorrect. Please try something else.","path":["password"],"type":"string.min"}],"level":"error","message":"The email or password you entered is incorrect. Please try something else.","stack":"ValidationError: The email or password you entered is incorrect. Please try something else."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"_original":{"email":"m6@m.com","newPassword":"m0000000"},"details":[{"context":{"key":"password","label":"password"},"message":"Password is required","path":["password"],"type":"any.required"}],"level":"error","message":"Password is required","stack":"ValidationError: Password is required"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"_original":{"email":"m6@m.com","password":"m"},"details":[{"context":{"key":"password","label":"password","limit":8,"value":"m"},"message":"The email or password you entered is incorrect. Please try something else.","path":["password"],"type":"string.min"}],"level":"error","message":"The email or password you entered is incorrect. Please try something else.","stack":"ValidationError: The email or password you entered is incorrect. Please try something else."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"_original":{"accountTypeAdmin":1,"email":"m8","name":"m8","password":"m7777777"},"details":[{"context":{"invalids":["m8"],"key":"email","label":"email","value":"m8"},"message":"Invalid email","path":["email"],"type":"string.email"}],"level":"error","message":"Invalid email","stack":"ValidationError: Invalid email"}
+{"_original":{"accountTypeAdmin":1,"email":"","name":"m8","password":"m7777777"},"details":[{"context":{"key":"email","label":"email","value":""},"message":"Email is required","path":["email"],"type":"string.empty"}],"level":"error","message":"Email is required","stack":"ValidationError: Email is required"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Not Connected to DB"}
+{"code":"PROTOCOL_SEQUENCE_TIMEOUT","fatal":true,"level":"error","message":"Handshake inactivity timeout","stack":"Error: Handshake inactivity timeout\n    at Handshake.<anonymous> (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:160:17)\n    at Handshake.emit (events.js:375:28)\n    at Handshake._onTimeout (/Users/priyankasharma/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)\n    at Timer._onTimeout (/Users/priyankasharma/node_modules/mysql/lib/protocol/Timer.js:32:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n    --------------------\n    at Protocol._enqueue (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Protocol.handshake (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:51:23)\n    at PoolConnection.connect (/Users/priyankasharma/node_modules/mysql/lib/Connection.js:116:18)\n    at Pool.getConnection (/Users/priyankasharma/node_modules/mysql/lib/Pool.js:48:16)\n    at /Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:863:18\n    at new Promise (<anonymous>)\n    at MysqlDriver.createPool (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:860:16)\n    at MysqlDriver.<anonymous> (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:288:51)\n    at step (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:143:27)\n    at Object.next (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:124:57)","timeout":10000}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Not Connected to DB"}
+{"code":"PROTOCOL_SEQUENCE_TIMEOUT","fatal":true,"level":"error","message":"Handshake inactivity timeout","stack":"Error: Handshake inactivity timeout\n    at Handshake.<anonymous> (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:160:17)\n    at Handshake.emit (events.js:375:28)\n    at Handshake._onTimeout (/Users/priyankasharma/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)\n    at Timer._onTimeout (/Users/priyankasharma/node_modules/mysql/lib/protocol/Timer.js:32:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n    --------------------\n    at Protocol._enqueue (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Protocol.handshake (/Users/priyankasharma/node_modules/mysql/lib/protocol/Protocol.js:51:23)\n    at PoolConnection.connect (/Users/priyankasharma/node_modules/mysql/lib/Connection.js:116:18)\n    at Pool.getConnection (/Users/priyankasharma/node_modules/mysql/lib/Pool.js:48:16)\n    at /Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:863:18\n    at new Promise (<anonymous>)\n    at MysqlDriver.createPool (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:860:16)\n    at MysqlDriver.<anonymous> (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/mysql/MysqlDriver.js:288:51)\n    at step (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:143:27)\n    at Object.next (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:124:57)","timeout":10000}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Not Connected to DB"}
+{"level":"error","message":"Postgres package has not been found installed. Try to install it: npm install pg --save","stack":"DriverPackageNotInstalledError: Postgres package has not been found installed. Try to install it: npm install pg --save\n    at DriverPackageNotInstalledError.TypeORMError [as constructor] (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/error/TypeORMError.js:9:28)\n    at new DriverPackageNotInstalledError (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/error/DriverPackageNotInstalledError.js:12:23)\n    at PostgresDriver.loadDependencies (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/postgres/PostgresDriver.js:1099:19)\n    at new PostgresDriver (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/postgres/PostgresDriver.js:218:14)\n    at DriverFactory.create (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/driver/DriverFactory.js:37:24)\n    at new Connection (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/connection/Connection.js:53:59)\n    at ConnectionManager.create (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/connection/ConnectionManager.js:62:26)\n    at /Users/priyankasharma/Downloads/TestExercise11-master/node_modules/typeorm/globals.js:70:66\n    at step (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:143:27)\n    at Object.next (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/tslib/tslib.js:124:57)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Not Connected to DB"}
+{"code":"3D000","file":"postinit.c","length":96,"level":"error","line":"887","message":"database \"reminderdev\" does not exist","name":"error","routine":"InitPostgres","severity":"FATAL","stack":"error: database \"reminderdev\" does not exist\n    at Parser.parseErrorMessage (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/pg-protocol/dist/parser.js:287:98)\n    at Parser.handlePacket (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/pg-protocol/dist/parser.js:126:29)\n    at Parser.parse (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/pg-protocol/dist/parser.js:39:38)\n    at Socket.<anonymous> (/Users/priyankasharma/Downloads/TestExercise11-master/node_modules/pg-protocol/dist/index.js:11:42)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)\n    at Socket.Readable.push (internal/streams/readable.js:204:10)\n    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"_original":{"accountTypeAdmin":1,"email":"pri27@gmail.com","name":"priyanka","password":"ppp1798"},"details":[{"context":{"key":"password","label":"password","limit":8,"value":"ppp1798"},"message":"Invalid Password. Please enter a valid password.","path":["password"],"type":"string.min"}],"level":"error","message":"Invalid Password. Please enter a valid password.","stack":"ValidationError: Invalid Password. Please enter a valid password."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to DB"}

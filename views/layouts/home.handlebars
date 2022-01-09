@@ -1,0 +1,33 @@
+<p>Book an appointment for a treatment in our salon</p>
+{{#if error}}
+    <p><strong>{{error}}</strong></p>
+{{/if}}
+<form method="post" action="/book">
+    <div>
+        <label>Your name:</label>
+        <br />
+        <input type="text" name="name" value="{{name}}" />
+    </div>
+    <div>
+        <label>Your treatment:</label>
+        <br />
+        <input type="text" name="treatment" value="{{treatment}}" />
+    </div>
+    <div>
+        <label>Your mobile number:</label>
+        <br />
+        <input type="telno" name="number" value="{{number}}" /> 
+        {{!-- <input id="telNo" name="telNo" type="tel"
+       size="20" minlength="9" maxlength="14">   --}}
+       {{!-- COUNTRY_CODE=+91.... mention in .env file--}}
+    </div>
+    <div>
+        <label>Date and Time:</label>
+        <br />
+        <input type="date" name="date" value="{{date}}" />
+        <input type="time" name="time" value="{{time}}" />
+    </div>
+    <div>
+        <button type="submit">Book Now!</button>
+    </div>
+</form>
